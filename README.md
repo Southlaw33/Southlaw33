@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# `I'm Atchutha Rao T A`
+
+A self-taught `Full-Stack web Developer`. 
+
+* I develop web applications in `Next.js`.
+* I develop backend applications in `Node.js` and `Sprint Boot`.
+
+### Experience
+
+
+
+- Web
+  - `Next.js (JS/TS)` • `⭐️`
+
+ 
+- Back End
+  - `Node.js (JS/TS)` • `⭐️`
+
+- Machine Learning
+  - `Tensorflow` • `⭐️`
+  - `Keras` • `⭐️`
+- AI
+  - `Llama 2` • `⭐️`
+  - `Mistral` • `⭐️`
+  
